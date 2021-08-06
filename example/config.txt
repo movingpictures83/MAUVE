@@ -1,0 +1,2 @@
+Prefix plugins/MAUVE/example
+Plugin MAUVE inputfile fastafiles.txt outputfile alignment.fasta
